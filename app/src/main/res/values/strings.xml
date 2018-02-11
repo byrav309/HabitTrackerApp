@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Habit Tracker App</string>
+    <string name="action_add_new_habit">Add new Habit</string>
+    <string name="title_activity_habit_addition">Add new Habit</string>
+    <string name="no_habit_found">No Habit found. Please add.</string>
+    <string name="activity">Activity</string>
+    <string name="activity_type">Type</string>
+    <string name="activity_duration">Duration</string>
+    <string name="activity_place">Place</string>
+    <string name="category_activity">Activity</string>
+    <string name="category_type">Type</string>
+    <string name="type_hint">Activity Type</string>
+    <string name="description_hint">Description</string>
+    <string name="duration_hint">Duration</string>
+    <string name="category_time">Time</string>
+    <string name="category_place">Place</string>
+    <string name="save">Save</string>
+    <string name="missing">Missing</string>
+    <string name="activity_inserted_successfully">Activity inserted Successfully</string>
+    <string name="activity_insertion_failed">Failed to insert Activity</string>
+    <string name="add_another_activity">Do you want to add another Activity ?</string>
+
+</resources>
